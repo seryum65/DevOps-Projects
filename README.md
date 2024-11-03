@@ -1,17 +1,21 @@
-# DevOps Projects
+# Devops:
 
-List of projects within DevOps as follows;
+This private workshop repository contains projects, hands-on training, coding challenges, and class-notes.
 
-1. - [202-Terraform-Phonebook-Application-deployed-on-AWS]
+## Description
 
-2. - [203-dockerization-bookstore-api-on-python-flask-mysql]
+The workshop repository contains materials related to the IT trainings like projects, hands-on trainings, coding challenges, class-notes etc. in the following main areas.
 
-3. - [206-Kubernetes-Microservice-Phonebook]
+- [Class Notes](./class-notes/README.md)
 
-4. - [207-Ansible-publish-website-postgresql-nodejs-react]
+- [Coding Challanges](./coding-challanges/README.md)
 
-5. - [208-jenkins-pipeline-for-webpage-application(postgresql-nodejs-react)]
+- [DevOps Hands-on Trainings](./hands-on/README.md)
 
-6. - [505-microservices-ci-cd-pipeline]
+- [DevOps Workshop Projects](./projects/README.md)
+
+- [DevOps takeaways](./takeaways)
+
+- [Teamwork Agendas](./teamwork-agendas)
 
 
